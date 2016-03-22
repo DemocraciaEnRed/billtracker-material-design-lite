@@ -68,3 +68,9 @@ $card-button-padding: 0 35px 35px 35px;
 $card-supporting-text-font-size: .9rem;
 
 $card-supporting-text-text-color: rgba-tpl($palette-dark-blue, 0.87);
+
+/* ========= SWITCH ========== */
+$switch-color: $palette-pink;
+$switch-track-color: rgba-tpl($palette-pink, 0.26);
+$switch-faded-color: rgba-tpl($palette-pink, 0.26);
+$switch-thumb-color: $switch-color;
